@@ -1,0 +1,33 @@
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+  margin: 20px 0px 10px 0px;
+}
+
+footer {
+  background-color: black;
+  color: azure;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.quem_somos {
+  background-color: rgba(56, 29, 29, 0.589);
+  color: azure;
+}
+.parceiros {
+  background-color: rgb(173, 173, 173);
+  color: azure;
+}
+
+.servicos {
+  background-color: rgb(102, 93, 80);
+  color: azure;
+}
+
+.margin {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
